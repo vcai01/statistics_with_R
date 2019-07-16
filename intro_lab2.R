@@ -28,10 +28,11 @@ companion package for this course, `statsr`.
 Let's load the packages.
 
 ```{r load-packages, message=FALSE}
+
+```
 library(statsr)
 library(dplyr)
 library(ggplot2)
-```
 
 ### Data
 
